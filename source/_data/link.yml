@@ -1,0 +1,15 @@
+- class_name: 无名后台管理系统
+  class_desc: 一个简单的后台管理系统
+  link_list:
+    - name: 后台管理系统
+      link: http://120.48.125.5/
+      avatar: https://wpimg.wallstcn.com/69a1c46c-eb1c-4b46-8bd4-e9e686ef5251.png
+      descr: 后台管理
+
+- class_name: 博客
+  class_desc: 那些人，那些事
+  link_list:
+    - name: 博客搭建教程
+      link: https://tzy1997.com/articles/hexo1600/#%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5
+      avatar: https://bu.dusays.com/2022/01/14/cd5ffd485f867.jpg
+      descr: hexo博客搭建教程
