@@ -1,6 +1,8 @@
 ---
 title: CentOs安装Docker
 date: 2023-08-18 19:38:04
+top_img: ./images/Docker-Symbol.png
+cover: ./images/Docker-Symbol.png
 tags:
   - docker
 categories:
